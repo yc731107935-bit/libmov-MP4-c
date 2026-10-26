@@ -76,7 +76,7 @@ If you want to ship Safe-MP4-Recorder (libmov) in a commercial product (IPC, DVR
 
 - **Email:** [yc731107935@gmail.com](mailto:yc731107935@gmail.com)
 - **Subject:** `libmov commercial license / 方案商业合作`
-- **WeChat / 微信：** `[填写你的微信号]`（添加请备注：方案咨询 / 商业合作）
+- **WeChat / 微信：** `[y731107935]`（添加请备注：方案咨询 / 商业合作）
 
 Please include: company name, product type, expected volume, target CPU (e.g. MIPS / ARM), and whether you need source code or binaries only.
 
