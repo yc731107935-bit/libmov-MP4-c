@@ -1,0 +1,23 @@
+# Build outputs
+build/
+*.o
+*.d
+*.a
+*.so
+*.so.*
+demo_reserved_moov.mp4
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------------------------------
+# Source is proprietary. Do NOT push src/ to the public GitHub repository.
+# Keep a private backup of src/ separately (private repo, disk image, etc.).
+# 源码不开源。不要把 src/ 推到公开 GitHub。请另做私有备份。
+# ---------------------------------------------------------------------------
+src/

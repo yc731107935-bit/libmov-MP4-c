@@ -1,0 +1,5 @@
+# Keep this directory in git; do not publish binaries.
+# 保留目录，不提交评估/授权二进制。
+*
+!.gitignore
+!.gitkeep

@@ -1,0 +1,50 @@
+libmov Proprietary Software License
+===================================
+
+Copyright (c) 2026 YourName <yc731107935@gmail.com>
+All rights reserved.
+
+1. Evaluation / 评估使用
+   You may download the public materials of this project (headers, demo,
+   documentation, and any evaluation binaries that the copyright holder
+   chooses to publish) solely to evaluate the software.
+
+   你可以下载本项目的公开材料（头文件、示例、文档，以及版权方自愿提供的
+   评估二进制），仅用于评估。
+
+2. Non-commercial personal study / 非商业个人学习
+   Personal, non-commercial study and experimentation on your own devices
+   is permitted, provided that you do not redistribute the software, do not
+   incorporate it into a product or service, and do not remove copyright
+   notices.
+
+   允许在个人设备上做非商业学习与试验，但不得再分发，不得并入任何产品或
+   服务，不得删除版权声明。
+
+3. Commercial use requires a paid license / 商用必须购买授权
+   Any commercial use — including, without limitation, embedding in a
+   camera / DVR / NVR / IPC product, shipping in firmware, offering as a
+   cloud or SaaS feature, or redistributing binaries to customers —
+   requires a separate written commercial license from the copyright holder.
+
+   任何商业使用（包括但不限于嵌入摄像机 / DVR / NVR / IPC 产品、随固件
+   发布、作为云端或 SaaS 能力提供、向客户分发二进制）都必须取得版权方的
+   书面商业授权。
+
+4. No source code grant / 不授予源码权利
+   Publication of headers or demos on GitHub does not grant rights to the
+   implementation source. Reverse engineering of evaluation binaries for
+   the purpose of recreating the implementation is prohibited except to the
+   extent mandatory law forbids such a restriction.
+
+   在 GitHub 公开头文件或示例，并不授予实现源码的权利。除非强行法另有
+   规定，禁止为复现实现而对评估二进制做逆向工程。
+
+5. No warranty / 无担保
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+   本软件按“现状”提供，不作任何明示或默示担保。
+
+6. Contact / 联系授权
+   Email: yc731107935@gmail.com
+   Subject: libmov commercial license
+   See also README.md.

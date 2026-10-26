@@ -1,0 +1,2 @@
+# Place evaluation or licensed libmov.so here for consumers without src/.
+# 没有 src/ 时，把评估包或授权包里的 libmov.so 放到本目录。
